@@ -1,30 +1,30 @@
-# Research-Nexas 
+<h1>🚀Research Nexas</h1>
 A web application that seamlessly connects students and researchers with stakeholders in a collaborative research ecosystem. Students can login and enter their details, upload their research paper and view thier uploads.They can see thier result in profile and can view their details and Evaluation Criteria set by the stakeholder. The stakeholder can approve the Research paper submitted by their students and can allot the papers to the faculty he wants, Stakeholder set evaluation criteria and can see the saved criteria on their profile. Faculty can view the alloted papers and csn evaluate the papers and give rating, the result is evaluated on the basis of the evaluation criteria 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-# Working
-- Student
-
-  https://github.com/Harshdev098/Research-Nexas/assets/118347330/a26c3b7c-684a-4830-8f11-daf4dac5e8a2
+<h1>⌨️Working</h1>
+<h2 style="font-style:serif;">Student🤓</h2>
+ 
+ https://github.com/Harshdev098/Research-Nexas/assets/118347330/a26c3b7c-684a-4830-8f11-daf4dac5e8a2
 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-- Stakeholder
+<h2>StakeHolders💹</h2>
 
   https://github.com/Harshdev098/Research-Nexas/assets/118347330/c6aa876b-095a-4c07-8eea-f402a63bb7bd
 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
   
 
-- Faculty
+<h2>Faculty😎</h2>
 
   https://github.com/Harshdev098/Research-Nexas/assets/118347330/4106eb28-7931-4adb-9732-a6285ef944c8
 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
   
   
-- Result
+<h2>Result💯</h2>
 
   https://github.com/Harshdev098/Research-Nexas/assets/118347330/5b581f5c-5887-4f06-be86-f5fb5cfb68af
 
@@ -32,20 +32,20 @@ A web application that seamlessly connects students and researchers with stakeho
   
 
 
-# Prerequisite
-- MySQL
-- NPM & Nodejs
+<h1>🥵Prerequisite</h1>
+<h2>MySQL</h2>
+<h2>NPM & Nodejs</h2>
 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
   
 
-# Running the Application
+<h1>☠️ Running The Application</h1>
 
-Follow these steps to run the Research Nexas
+<h2>Follow these steps to run the Research Nexas--*</h2>
 
-- Clone this repository in your computer
-- Establishing the database in MySQL Workbench
-  - Open MySQL workbench and run these queries
+<h4>🗣️ Clone this repository in your computer</h4>
+<h4>🥷 Establishing the database in MySQL Workbench</h4>
+<h4>🔫 Open MySQL workbench and run these queries</h4>
     
      ```
      CREATE SCHEMA user_db;
@@ -126,8 +126,8 @@ Follow these steps to run the Research Nexas
      token varchar(130) not null unique
      );
      ```
-- Now open code editor(eg. VS Code)
-- make a .env file and add the following data to this file
+<h2>*** Now open code editor(eg. VS Code)</h2>
+<h2>*** make a .env file and add the following data to this file</h2>
   ```
   DB_HOST=127.0.0.1 //your default host
   DB_USER=root // your user name(by default root)
@@ -159,18 +159,16 @@ Follow these steps to run the Research Nexas
 
   
 
-# Contribution
+<h1>🫡 Contribution</h1>
 Welcome to Research Nexas build for researchers, before contributing to the project please go through our contribution guidelines [Contributing.md](Contributing.md#Opening-a-pull-request). If you have any doubts about guidelines, please open an issue regarding that , we will help for it. **Your PR should follow [Contributing.md](Contributing.md#Opening-a-pull-request) guidelines**.
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9C973I8GsCc5rZ_tYw_8VgMHtVaEM5RPoaQ&s" width="900">
 
 
-
-
-# Code of Conduct
+<h1>🤫 Code of Conduct</h1>
 This project follows [Code of Conduct](Code_of_Conduct.md)
 
 
+⭐️⭐️⭐️⭐️⭐️
 
 
 Star ⭐ the project if you like it,working and contributing with us ❤️.
