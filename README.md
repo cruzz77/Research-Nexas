@@ -162,7 +162,9 @@ Follow these steps to run the Research Nexas
 # Contribution
 Welcome to Research Nexas build for researchers, before contributing to the project please go through our contribution guidelines [Contributing.md](Contributing.md#Opening-a-pull-request). If you have any doubts about guidelines, please open an issue regarding that , we will help for it. **Your PR should follow [Contributing.md](Contributing.md#Opening-a-pull-request) guidelines**.
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9C973I8GsCc5rZ_tYw_8VgMHtVaEM5RPoaQ&s" width="900">
+
+
 
 
 # Code of Conduct
